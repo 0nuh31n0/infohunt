@@ -1,3 +1,15 @@
+body{
+  background: url("night_sky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
 .hunt {
     float: right;
     width: 300px;
