@@ -1,14 +1,14 @@
 .hunt {
-    margin-top: 85px;
-    margin-left: 1120px;
+    float: right;
+    width: 300px;
+    padding: 10px;
   }
 .kuu {
     margin-top:0px;
     margin-left: 50px;
   }
 .hulguma {
-    margin-top:100px;
-    margin-left: 450px;
+    text-align: center;
     font-size: 16mm ;
-    color: white;
+    color: rgb(192, 101, 101);
   }
