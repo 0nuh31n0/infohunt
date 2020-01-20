@@ -1,8 +1,31 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Helvetica;
+	box-sizing: border-box;
+
+}
+header {
+	background-image: url(taust.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	background-position: center center;
+	position: relative;
+}
+
+
+
+/*
+html, body {height:100%}
+
 body{
   background: url("taust.png");
   background-repeat: no-repeat;
   background-size: 100%;
-  position: relative; 
+  position: fixed; 
   top: 0; 
   left: 0; 
   min-width: 100%;
@@ -20,7 +43,7 @@ body{
     margin-top:0px;
     margin-left: 50px;
   }
-.hulguma {
+.ulguma {
     text-align: center;
     font-size: 16mm ;
     font-family: 'Lobster', cursive;
